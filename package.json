@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "description": "Puppeteerのサンプル",
+  "main": "puppeter-sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev100kg/puppeteer-sample.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "node.js"
+  ],
+  "author": "Kazunori Hisada",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dev100kg/puppeteer-sample/issues"
+  },
+  "homepage": "https://qiita.com/dev100kg",
+  "dependencies": {
+    "puppeteer": "^1.19.0"
+  }
+}
